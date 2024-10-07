@@ -1,0 +1,27 @@
+.uuu{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.425);
+    max-width: 350px;
+    width: 100%;
+   margin-left: 300px;
+   margin-top: 40px;
+}
+.nnn{
+    background-color: #fff;
+    height:600px ;
+    margin-top:80px ;
+}
+.bbb{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+.rrr{
+    display: flex;
+margin-left: 40%;
+margin-top: 40px;
+font-size: 40px;
+gap: 40px;
+}
